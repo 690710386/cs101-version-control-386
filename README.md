@@ -10,3 +10,7 @@
 - Learn C programming
 - Learn Java programming 
 - Learn Python programming
+
+## Technology Interests
+- Artificial Intelligence
+- Game Development
