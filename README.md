@@ -6,3 +6,7 @@
 - Name: Nithi Pinley
 - Major: Computer Science
 
+## My Learning Goals
+- Learn C programming
+- Learn Java programming 
+- Learn Python programming
