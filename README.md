@@ -15,7 +15,4 @@
 - Artificial Intelligence
 - Game Development
 
-## Skills
-- Problem solving
-- Python basics
-- Teamwork
+
